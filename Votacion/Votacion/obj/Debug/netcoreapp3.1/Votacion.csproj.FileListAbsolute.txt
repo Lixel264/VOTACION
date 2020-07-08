@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.exe
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.deps.json
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.dll
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\bin\Debug\netcoreapp3.1\Votacion.pdb
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.dll
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.pdb
+C:\Users\WANDA\Desktop\C#\Votacion\Votacion\obj\Debug\netcoreapp3.1\Votacion.genruntimeconfig.cache
