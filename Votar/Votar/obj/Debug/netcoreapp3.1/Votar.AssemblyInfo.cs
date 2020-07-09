@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Votacion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Votar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Votacion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Votacion")]
+[assembly: System.Reflection.AssemblyProductAttribute("Votar")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Votar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

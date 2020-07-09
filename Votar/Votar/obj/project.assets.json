@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WANDA\\Desktop\\C#\\Votacion\\Votacion\\Votacion.csproj",
-      "projectName": "Votacion",
-      "projectPath": "C:\\Users\\WANDA\\Desktop\\C#\\Votacion\\Votacion\\Votacion.csproj",
+      "projectUniqueName": "C:\\Users\\WANDA\\Desktop\\C#\\Votar\\Votar\\Votar.csproj",
+      "projectName": "Votar",
+      "projectPath": "C:\\Users\\WANDA\\Desktop\\C#\\Votar\\Votar\\Votar.csproj",
       "packagesPath": "C:\\Users\\WANDA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WANDA\\Desktop\\C#\\Votacion\\Votacion\\obj\\",
+      "outputPath": "C:\\Users\\WANDA\\Desktop\\C#\\Votar\\Votar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WANDA\\AppData\\Roaming\\NuGet\\NuGet.Config",

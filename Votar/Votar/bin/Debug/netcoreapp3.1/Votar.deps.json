@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Votacion/1.0.0": {
+      "Votar/1.0.0": {
         "runtime": {
-          "Votacion.dll": {}
+          "Votar.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Votacion/1.0.0": {
+    "Votar/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

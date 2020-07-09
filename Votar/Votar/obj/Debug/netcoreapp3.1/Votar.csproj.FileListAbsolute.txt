@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.exe
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.deps.json
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.dll
+C:\Users\WANDA\Desktop\C#\Votar\Votar\bin\Debug\netcoreapp3.1\Votar.pdb
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.dll
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.pdb
+C:\Users\WANDA\Desktop\C#\Votar\Votar\obj\Debug\netcoreapp3.1\Votar.genruntimeconfig.cache
